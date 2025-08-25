@@ -76,3 +76,23 @@ This demonstrates the **potential of voice analysis as a diagnostic tool** for P
 ## Feature Importance
 
 Using XGBoost, the **top 10 features** were identified, highlighting which acoustic measures contribute most to Parkinson’s detection.  
+
+![image](https://github.com/aysh34/Parkinsons-Disease-Detection/blob/main/assets/top_10.png)
+
+## Citation
+
+If you use this project in any way, I would be honored if you cited it:
+
+**APA Style**  
+Ayesha. (2025). *Parkinson's Disease Detection Using Voice Analysis*. GitHub repository. Available at: https://github.com/aysh34/Parkinsons-Disease-Detection
+
+**BibTeX**
+```bibtex
+@misc{ayesha2025parkinson,
+  author       = {Ayesha Saleem},
+  title        = {Parkinson's Disease Detection Using Voice Analysis},
+  year         = {2025},
+  publisher    = {GitHub},
+  journal      = {GitHub repository},
+  howpublished = {\url{https://github.com/aysh34/Parkinsons-Disease-Detection}},
+}
