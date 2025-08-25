@@ -84,7 +84,7 @@ Using XGBoost, the **top 10 features** were identified, highlighting which acous
 If you use this project in any way, I would be honored if you cited it:
 
 **APA Style**  
-Ayesha. (2025). *Parkinson's Disease Detection Using Voice Analysis*. GitHub repository. Available at: https://github.com/aysh34/Parkinsons-Disease-Detection
+Ayesha Saleem. (2025). *Parkinson's Disease Detection Using Voice Analysis*. GitHub repository. Available at: https://github.com/aysh34/Parkinsons-Disease-Detection
 
 **BibTeX**
 ```bibtex
