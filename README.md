@@ -30,7 +30,7 @@ These measurable changes in speech acoustics allow **machine learning algorithms
 
 ## Project Pipeline & Methodology  
 
-The [dataset](https://www.kaggle.com/datasets/shreyadutta1116/parkinsons-disease) I used is available on kaggle. The goal was to classify individuals as either **healthy controls** or **Parkinson’s patients**.  
+The dataset is available on Kaggle. The goal was to classify individuals as either **healthy controls** or **Parkinson’s patients**.  
 
 This project followed a systematic machine learning workflow to ensure robust and reproducible results.  
 
