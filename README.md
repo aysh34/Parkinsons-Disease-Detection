@@ -1,4 +1,4 @@
-# Parkinson's Disease Detection Using Voice Analysis
+# Parkinson's Disease Detection via Speech Analysis
 
 ![Image Description](https://github.com/aysh34/Parkinsons-Disease-Detection/blob/main/assets/parkinsons-disease.png)
 
