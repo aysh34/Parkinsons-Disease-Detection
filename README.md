@@ -63,7 +63,7 @@ Each model was trained using **5-fold cross-validation** to avoid overfitting an
 
 ## 5. Results Summary
 
-| Model            | CV_Mean_F1 | Test_Accuracy | Test_F1 | ROC_AUC | Confusion Matrix                  |
+| Model            | CV_Mean_F1 | Accuracy | F1_Score | ROC_AUC | Confusion Matrix                  |
 |------------------|------------|---------------|---------|---------|-----------------------------------|
 | RandomForest     | 1.0000     | 0.9969        | 0.9969  | 1.0000  | [[284, 1], [0, 36]]               |
 | DecisionTree     | 0.9410     | 0.9969        | 0.9969  | 0.9982  | [[284, 1], [0, 36]]               |
